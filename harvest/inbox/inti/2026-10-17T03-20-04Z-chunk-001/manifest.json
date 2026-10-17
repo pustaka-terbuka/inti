@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "source_code": "inti",
+  "agency_code": "INTI",
+  "run_id": "2026-10-17T03-20-04Z",
+  "chunk_index": 1,
+  "total_records": 500,
+  "completed_at": "2026-10-17T03:20:04.566Z",
+  "harvester": {
+    "name": "inti-koha-harvester",
+    "version": "1.0.0"
+  },
+  "batches": [
+    {
+      "file": "batch_0.xml",
+      "records": 100,
+      "sha256": "78b20dcab5766149dce6e463fe161580586a55864269a57557132b61863cf80a"
+    },
+    {
+      "file": "batch_1.xml",
+      "records": 100,
+      "sha256": "0b128c9a5e3957a79a90573c07fe6dddc46ab17b0541553a010bb331eb5b6538"
+    },
+    {
+      "file": "batch_2.xml",
+      "records": 100,
+      "sha256": "b990302d3632f5127b48d53ca1becfeb80de62c8c8b0e55a3c5f5c6372f0d300"
+    },
+    {
+      "file": "batch_3.xml",
+      "records": 100,
+      "sha256": "77a5026126712b6029ebbcebc8699566c9e357915132da03dd8d90fe22946e28"
+    },
+    {
+      "file": "batch_4.xml",
+      "records": 100,
+      "sha256": "29d0f7591ab0125453364f30deb1a3df9c4e5d8dec7a01b76fe26f97182e3070"
+    }
+  ]
+}

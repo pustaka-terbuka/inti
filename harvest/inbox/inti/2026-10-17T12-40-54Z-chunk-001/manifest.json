@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "inti",
+  "source_name": "INTI International University Library",
+  "source_base_url": "https://library.newinti.edu.my/",
+  "terms_url": "https://newinti.edu.my/",
+  "terms_verified_on": "2026-10-17",
+  "harvester_name": "inti-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-17T12-40-54Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-17T12:41:04.588Z",
+  "finished_at": "2026-10-17T12:41:04.588Z",
+  "record_count": 130000,
+  "error_count": 0,
+  "status": "complete",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/inti; contact@pustakaterbuka.org)",
+  "notes": "INTI harvest finished. Total: 130000 records."
+}
